@@ -88,10 +88,7 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
-
-<img width="1920" height="1056" alt="image" src="https://github.com/user-attachments/assets/27aa4c7e-b907-488a-ba76-5f1696a542b5" />
-
-
+<img width="1920" height="1067" alt="image" src="https://github.com/user-attachments/assets/3f83832c-24a0-487e-a609-d3c90ef4859f" />
 
 
 
